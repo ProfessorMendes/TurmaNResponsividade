@@ -5,7 +5,7 @@
 
 }
 
-.cabecalho__menu{
+.cabecalho__menu-hamburguer{
     display: inline-block;
     background-image: url("../img/Menu.svg");
     background-repeat: no-repeat;
