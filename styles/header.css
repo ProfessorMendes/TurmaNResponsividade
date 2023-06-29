@@ -24,6 +24,7 @@
 .conteiner__imagem{
     padding: 1em;
 }
+
 .lista__menu{
     display: none;
     background-color: var( --branco);
@@ -31,13 +32,20 @@
     top: 100%;
     width: 60%;
 }
+
 .container__botao{
     display: none;
 }
+
 .lista__menu-titulo{
     font font-weight: 700;
     color: var( amarelo);
 }
+
+.lista__menu-titulo-item{
+    padding: 1cm;
+}
+
 .conteiner__botao:checked~.lista__menu{
 
     display: block;
