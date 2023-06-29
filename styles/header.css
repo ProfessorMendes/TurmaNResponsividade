@@ -26,8 +26,10 @@
 }
 .lista__menu{
     display: none;
+    background-color: var( --branco);
     position: absolute;
     top: 100%;
+    width: 60%;
 }
 .container__botao{
     display: none;
