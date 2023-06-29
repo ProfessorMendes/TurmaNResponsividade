@@ -29,6 +29,13 @@
     position: absolute;
     top: 100%;
 }
+.container__botao{
+    display: none;
+}
+.lista__menu-titulo{
+    font font-weight: 700;
+    color: var( amarelo);
+}
 .conteiner__botao:checked~.lista__menu{
 
     display: block;
