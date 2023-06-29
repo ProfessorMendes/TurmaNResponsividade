@@ -39,7 +39,7 @@
 
 .lista__menu-titulo{
     font-weight: 700;
-    color: var( amarelo);
+    color: var(--amarelo);
 }
 
 .lista__menu-titulo-item{
