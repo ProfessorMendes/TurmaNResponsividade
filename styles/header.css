@@ -38,12 +38,17 @@
 }
 
 .lista__menu-titulo{
-    font font-weight: 700;
+    font-weight: 700;
     color: var( amarelo);
 }
 
 .lista__menu-titulo-item{
     padding: 1cm;
+}
+
+.lista__menu-link{
+    color: var(--roxo);
+    font-weight: 500;
 }
 
 .conteiner__botao:checked~.lista__menu{
