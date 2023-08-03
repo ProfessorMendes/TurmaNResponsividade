@@ -62,3 +62,17 @@
 
     display: block;
 }
+
+.container__titulo{
+    display: none;
+}
+
+@media screen and (min-width:1024px) {
+
+    .cabecalho__menu{
+        display: none;
+    }
+    .conteiner__imagem__favorito{
+        display: block;
+    }
+}
