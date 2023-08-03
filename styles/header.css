@@ -17,7 +17,7 @@
     height: 24px;
 }
 
-.conteiner{
+.container{
     display: flex;
     justify-content: space-between;
     align-items:center ;
@@ -59,7 +59,7 @@
 
 }
 
-.conteiner__botao:checked~.lista__menu{
+.container__botao:checked~.lista__menu{
 
     display: block;
 }
@@ -73,7 +73,7 @@
     .cabecalho__menu{
         display: none;
     }
-    .conteiner__imagem{
+    .container__imagem{
         display: none;
     }
     .container__titulo{
